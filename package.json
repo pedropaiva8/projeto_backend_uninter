@@ -1,0 +1,13 @@
+{
+  "name": "sghss-simples",
+  "version": "1.0.0",
+  "description": "Protótipo simples do Sistema de Gestão Hospitalar e de Serviços de Saúde",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "body-parser": "^1.20.2"
+  }
+}
